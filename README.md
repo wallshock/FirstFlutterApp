@@ -1,4 +1,4 @@
-# iamrich
+# trash app
 
 A new Flutter project.
 
